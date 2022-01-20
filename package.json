@@ -1,0 +1,14 @@
+{
+  "name": "roamprivateapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Import.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "roam-research-private-api": "^0.9.3"
+  }
+}

@@ -1,0 +1,3 @@
+roam-api search "potatoes"
+roam-api create "TEST BLOCK" "JTlKlXISn"
+roam-api create "TEST BLOCK"
